@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    background-color: lightgoldenrodyellow;
+}
+
+table,tr,td{
+    border: 2px solid black;
+    background-color: white;
+    
+}
+ td{
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: white;
+ }
+.btnn{
+    width: 100px;
+    height: 50px;
+    background-color: lightgray;
+}
